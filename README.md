@@ -4,4 +4,4 @@ The building design process may be considerably accelerated by automating space 
 that allows architects to construct spatial layouts using deep learning algorithms while preserving high degrees of control over the outcomes.
 The findings demonstrate that the suggested method can develop spatial arrangement solutions using fixed boundaries and established topological requirements.
 
-<jpg src="images/Function.JPG">
+<jpg src="images/Function1.JPG">
